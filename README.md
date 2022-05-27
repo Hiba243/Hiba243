@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hiba Fatima, a computer science engineer. I am currently a .NET Web Developer at Deloitte USI.
 - 💻 I’m interested in transforming visual design into code by building front-end web applications using React, HTML, CSS, and Sass. 
-- ✨ I am also passionate about UI/UX design and creating wireframes and prototype on Figma.
+- ✨ I am also passionate about UI/UX design and creating wireframes and prototypes on Figma.
 - ⌚ I spend my spare time working on personal projects such as building an skincare e-commerce web app, a virtual museum tour web app etc. to get more hands-on experience in UI/UX design and front-end web development. -> view case studies of my projects on my **portfolio website** https://hibaportfolio22.netlify.app/
 - 📫 If you'd like to know more about me with me -> drop me an **email** at hibafatima24@gmail.com -> connect with me on **linkedin** linkedin.com/in/fatimahiba
