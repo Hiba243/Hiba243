@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hiba Fatima, a computer science engineer. I am currently a Web Developer at Deloitte USI.
-- 💻 I’m passionate about transforming visual design into code by building front-end web applications using React, HTML, CSS, and Sass. 
-- ⌚ I spend my spare time working on personal projects such as building an skincare e-commerce web app, a virtual museum tour web app etc. to get more hands-on experience in front-end web development. -> view case studies of my projects on my **portfolio website** https://hibaportfolio22.netlify.app/
+- 💻 I have experience building web applications in the FinTech industry using C#, JavaScript, .NET, Oracle, and Azure DevOps CI/CD. 
+- ⌚ I spend my spare time working on personal projects such as building an skincare e-commerce web app, a virtual museum tour web app etc. to get more hands-on experience in full-stack web development using React, JavaScript, HTML, CSS, Sass, Express, Node.js, MongoDB. -> view case studies of my projects on my **portfolio website** https://hibaportfolio22.netlify.app/
 - 📫 If you'd like to know more about me with me -> drop me an **email** at hibafatima24@gmail.com -> connect with me on **linkedin** https://www.linkedin.com/in/fatimahiba
